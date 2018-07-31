@@ -1,0 +1,1 @@
+window.blockly = window.blockly || {};window.blockly.js = window.blockly.js || {};window.blockly.js.blockly = window.blockly.js.blockly || {};document.write("<script src='js/blockly/APIGoogleMaps.blockly.js?1533061865000'></script>");
